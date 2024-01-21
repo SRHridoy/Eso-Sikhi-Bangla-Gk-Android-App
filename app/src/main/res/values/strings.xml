@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">এসো জানি</string>
+    <string name="Quran">কুরআন \nও হাদিস</string>
+    <string name="Science">বিজ্ঞানের\n কথা</string>
+    <string name="International">আন্তর্জাতিক\n বিষয়াবলী</string>
+    <string name="Bangladesh">বাংলাদেশ \n সম্পর্কে</string>
+</resources>
