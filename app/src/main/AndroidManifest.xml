@@ -13,18 +13,33 @@
         android:theme="@style/Theme.এসোজানি"
         tools:targetApi="31">
         <activity
+            android:name=".BivagBdActivity"
+            android:parentActivityName=".BangladeshActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OtitBdActivity"
+            android:parentActivityName=".BangladeshActivity"
+            android:exported="false" />
+        <activity
+            android:name=".JatioBdActivity"
+            android:parentActivityName=".BangladeshActivity"
+            android:exported="false" />
+        <activity
+            android:name=".eknojorbangladesh.EknojorBdActivity"
+            android:parentActivityName=".BangladeshActivity"
+            android:exported="false" />
+        <activity
             android:name=".InternationalActivity"
-            android:parentActivityName=".ContentActivity"
             android:exported="true"
-            />
+            android:parentActivityName=".ContentActivity" />
         <activity
             android:name=".QuranActivity"
-            android:parentActivityName=".ContentActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:parentActivityName=".ContentActivity" />
         <activity
             android:name=".ScienceActivity"
-            android:parentActivityName=".ContentActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:parentActivityName=".ContentActivity" />
         <activity
             android:name=".BangladeshActivity"
             android:exported="true"

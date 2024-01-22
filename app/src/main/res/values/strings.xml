@@ -4,4 +4,6 @@
     <string name="Science">বিজ্ঞানের\n কথা</string>
     <string name="International">আন্তর্জাতিক\n বিষয়াবলী</string>
     <string name="Bangladesh">বাংলাদেশ \n সম্পর্কে</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
