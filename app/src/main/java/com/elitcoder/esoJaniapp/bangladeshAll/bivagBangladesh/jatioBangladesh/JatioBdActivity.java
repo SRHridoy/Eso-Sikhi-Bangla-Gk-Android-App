@@ -1,8 +1,10 @@
-package com.elitcoder.esoJaniapp;
+package com.elitcoder.esoJaniapp.bangladeshAll.bivagBangladesh.jatioBangladesh;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.elitcoder.esoJaniapp.R;
 
 public class JatioBdActivity extends AppCompatActivity {
 

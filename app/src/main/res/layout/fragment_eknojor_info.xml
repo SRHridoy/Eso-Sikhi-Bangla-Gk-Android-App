@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:background="#011627"
     android:layout_height="match_parent"
-    tools:context=".eknojorbangladesh.EknojorInfoFragment">
+    tools:context=".bangladeshAll.bivagBangladesh.eknojorbangladesh.EknojorInfoFragment">
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerEknojorBd"

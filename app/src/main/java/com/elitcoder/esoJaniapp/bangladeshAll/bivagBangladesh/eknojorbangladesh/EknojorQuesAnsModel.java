@@ -1,4 +1,4 @@
-package com.elitcoder.esoJaniapp.eknojorbangladesh;
+package com.elitcoder.esoJaniapp.bangladeshAll.bivagBangladesh.eknojorbangladesh;
 
 public class EknojorQuesAnsModel {
     String ques;
@@ -23,5 +23,8 @@ public class EknojorQuesAnsModel {
     public EknojorQuesAnsModel(String ques, String ans) {
         this.ques = ques;
         this.ans = ans;
+    }
+
+    public EknojorQuesAnsModel() {
     }
 }

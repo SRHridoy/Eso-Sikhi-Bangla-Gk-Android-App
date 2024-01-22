@@ -1,4 +1,4 @@
-package com.elitcoder.esoJaniapp;
+package com.elitcoder.esoJaniapp.bangladeshAll.bivagBangladesh;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,8 +8,11 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 
+import com.elitcoder.esoJaniapp.R;
 import com.elitcoder.esoJaniapp.databinding.ActivityBangladeshBinding;
-import com.elitcoder.esoJaniapp.eknojorbangladesh.EknojorBdActivity;
+import com.elitcoder.esoJaniapp.bangladeshAll.bivagBangladesh.eknojorbangladesh.EknojorBdActivity;
+import com.elitcoder.esoJaniapp.bangladeshAll.bivagBangladesh.jatioBangladesh.JatioBdActivity;
+import com.elitcoder.esoJaniapp.bangladeshAll.bivagBangladesh.otitBangladesh.OtitBdActivity;
 
 import java.util.ArrayList;
 

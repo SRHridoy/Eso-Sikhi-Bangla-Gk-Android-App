@@ -7,8 +7,8 @@ import androidx.fragment.app.FragmentManager;
 import androidx.lifecycle.Lifecycle;
 import androidx.viewpager2.adapter.FragmentStateAdapter;
 
-import com.elitcoder.esoJaniapp.eknojorbangladesh.EknojorExamFragment;
-import com.elitcoder.esoJaniapp.eknojorbangladesh.EknojorInfoFragment;
+import com.elitcoder.esoJaniapp.bangladeshAll.bivagBangladesh.eknojorbangladesh.EknojorExamFragment;
+import com.elitcoder.esoJaniapp.bangladeshAll.bivagBangladesh.eknojorbangladesh.EknojorInfoFragment;
 
 public class ViewPagerEknojorBdAdapter extends FragmentStateAdapter {
 

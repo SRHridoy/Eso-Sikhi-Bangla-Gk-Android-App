@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="#011627"
-    tools:context=".eknojorbangladesh.EknojorBdActivity">
+    tools:context=".bangladeshAll.bivagBangladesh.eknojorbangladesh.EknojorBdActivity">
 
     <com.google.android.material.tabs.TabLayout
         android:background="#01111E"

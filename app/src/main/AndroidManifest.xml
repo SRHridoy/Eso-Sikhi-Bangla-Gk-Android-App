@@ -13,20 +13,20 @@
         android:theme="@style/Theme.এসোজানি"
         tools:targetApi="31">
         <activity
-            android:name=".BivagBdActivity"
-            android:parentActivityName=".BangladeshActivity"
+            android:name=".bangladeshAll.bivagBangladesh.BivagBdActivity"
+            android:parentActivityName=".bangladeshAll.bivagBangladesh.BangladeshActivity"
             android:exported="false" />
         <activity
-            android:name=".OtitBdActivity"
-            android:parentActivityName=".BangladeshActivity"
+            android:name=".bangladeshAll.bivagBangladesh.otitBangladesh.OtitBdActivity"
+            android:parentActivityName=".bangladeshAll.bivagBangladesh.BangladeshActivity"
             android:exported="false" />
         <activity
-            android:name=".JatioBdActivity"
-            android:parentActivityName=".BangladeshActivity"
+            android:name=".bangladeshAll.bivagBangladesh.jatioBangladesh.JatioBdActivity"
+            android:parentActivityName=".bangladeshAll.bivagBangladesh.BangladeshActivity"
             android:exported="false" />
         <activity
-            android:name=".eknojorbangladesh.EknojorBdActivity"
-            android:parentActivityName=".BangladeshActivity"
+            android:name=".bangladeshAll.bivagBangladesh.eknojorbangladesh.EknojorBdActivity"
+            android:parentActivityName=".bangladeshAll.bivagBangladesh.BangladeshActivity"
             android:exported="false" />
         <activity
             android:name=".InternationalActivity"
@@ -41,7 +41,7 @@
             android:exported="false"
             android:parentActivityName=".ContentActivity" />
         <activity
-            android:name=".BangladeshActivity"
+            android:name=".bangladeshAll.bivagBangladesh.BangladeshActivity"
             android:exported="true"
             android:parentActivityName=".ContentActivity" />
         <activity

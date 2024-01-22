@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="#011627"
     android:gravity="center"
-    tools:context=".BangladeshActivity">
+    tools:context=".bangladeshAll.bivagBangladesh.BangladeshActivity">
     <ListView
         android:id="@+id/bdListView"
         android:layout_width="match_parent"
